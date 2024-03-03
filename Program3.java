@@ -1,4 +1,4 @@
-//programe to print factorial of the number 
+//Write a program to print factorial of the given number 
 import java.util.Scanner;
 public class Program3 {
 

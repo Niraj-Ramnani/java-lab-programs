@@ -1,3 +1,4 @@
+// Program 1 : Write a java program to print greatest of three number using logical operataors 
 import java.util.Scanner;
 public class Program1 {
 

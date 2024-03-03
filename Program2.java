@@ -1,4 +1,4 @@
-
+//write a java program to print first 10 number in fibonaci series 
 public class Program2 {
 
 	public static void main(String[] args) {

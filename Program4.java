@@ -1,3 +1,10 @@
+/*Write a java program to print following pattern 
+
+*
+**
+***
+
+*/
 import java.util.Scanner;
 public class Program4 {
 
