@@ -5,3 +5,5 @@ All those programs which are asked in Arya college java lab are discussed here
  
  <br>
   ~ author  Niraj Ramnani 
+
+# disclaimer 
