@@ -10,6 +10,7 @@ public class Program4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		System.out.println("This program is solved by name");
 		System.out.print("enter the range ");
 		int range = sc.nextInt();
 		for(int i = 1 ; i<=range; i++) {

@@ -5,6 +5,7 @@ public class Program1 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
+		System.out.println("This program is solved by name");
 		System.out.println("enter three distinct number");
 		int a = sc.nextInt();
 		int b = sc.nextInt();

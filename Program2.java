@@ -5,6 +5,7 @@ public class Program2 {
 		int num1 = 0;
 		int num2 = 1;
 		int num3 ;
+		System.out.println("This program is solved by name");
 		System.out.println("to print first 10 fibonacci series digits");
 		for(int i = 1; i<=10; i++) {
 			System.out.println(num1);

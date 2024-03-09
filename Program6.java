@@ -5,6 +5,7 @@ public class Program6 {
 	public static void main(String[] args) {
 		int a,b,temp;
 		Scanner sc = new Scanner(System.in);
+		System.out.println("This program is solved by name");
 		System.out.print("Enter value of a ");
 		a = sc.nextInt();
 		System.out.print("Enter value of b ");

@@ -4,6 +4,7 @@ public class Program3 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		System.out.println("This program is solved by name");
 		System.out.print("enter any value ");
 		int n = sc.nextInt();
 		int fact = 1;
