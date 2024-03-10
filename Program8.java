@@ -8,7 +8,7 @@ public class Program8 {
     System.out.println("This program is solved by name");
 	System.out.print("Enter any string ");
 	String str = sc.next();
-        String temp = " ";
+        String temp = "";
     for(int i = str.length() -1; i>=0; i--){
         temp = temp + str.charAt(i);
     }
