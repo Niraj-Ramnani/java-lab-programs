@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Program7 {
 
 	public static void main(String[] args) {
-		System.out.println("This Problem is solved by Niraj Ramnani");
+		System.out.println("This Problem is solved by name");
 		Scanner sc = new Scanner(System.in);
 		int num;
 		System.out.println("Enter any number ");
