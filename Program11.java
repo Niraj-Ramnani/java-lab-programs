@@ -11,7 +11,7 @@ public class Program11 {
 		
 		String[] names = new String[num];
 		for(int i =0; i<num; i++) {
-		System.out.println("enter name" + i+1);	
+		System.out.println("enter name" + (i+1));	
 			names[i] = sc.next();
 		}
 		String temp;
