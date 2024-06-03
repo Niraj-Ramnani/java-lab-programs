@@ -1,4 +1,4 @@
-
+// Write a java program to write bytes to a file 
 
 import java.io.*;
 

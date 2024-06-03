@@ -1,5 +1,5 @@
 // java program to show inter thread communication 
-package com.aryacollege;
+
 class Item  {
 	boolean produced = false ;
 	public synchronized void produce () {

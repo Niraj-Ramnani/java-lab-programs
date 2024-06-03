@@ -1,4 +1,4 @@
-
+// write a java program to demonstrate file output stream and print stream classes 
 
 import java.io.*;
 
