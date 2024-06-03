@@ -1,5 +1,5 @@
 // java program to demonstrate daemon thread 
-package com.aryacollege;
+
 class DaemonThread extends Thread{
 	public DaemonThread ( String name ) {
 		super(name);

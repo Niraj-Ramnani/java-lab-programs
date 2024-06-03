@@ -1,4 +1,4 @@
-package com.aryacollege;
+// write a java program using listed keywords super , ststic , final
 import java.util.Scanner; 
 
 class parent_1 {

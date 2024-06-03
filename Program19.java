@@ -1,5 +1,5 @@
 
-//
+//write a java program to find the cube of a number for various data types using packlages then import and display their result 
 // before running this program add program file CubeCalculator given at git hub to make the required package 
 import calculation.*;
 import java.util.Scanner;

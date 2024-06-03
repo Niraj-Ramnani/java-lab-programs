@@ -1,5 +1,5 @@
 // java program to demonstrate exception handelling with multiple catch block  
-package com.aryacollege;
+
 import java.util.Scanner;
 public class Program23 {
 

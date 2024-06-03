@@ -1,5 +1,5 @@
 // write a java program to demonstrate user define exception 
-package com.aryacollege;
+
 import java.util.Scanner;
 
 class DivisionException extends Exception {
